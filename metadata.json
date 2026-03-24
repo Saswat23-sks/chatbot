@@ -1,0 +1,5 @@
+{
+  "name": "Simple AI Chatbot",
+  "description": "A basic chatbot with rule-based patterns and Gemini AI integration for natural language processing.",
+  "requestFramePermissions": ["microphone"]
+}
